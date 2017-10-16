@@ -1,2 +1,4 @@
 # hello-world
-a new repository
+
+hi! 
+i like php ,java-script and c.
